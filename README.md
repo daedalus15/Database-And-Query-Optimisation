@@ -1,1 +1,1 @@
-# Database-And-Query-Optimisation
+# OptimaSQL : Enhancing Query Performance with Visualization
