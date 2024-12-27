@@ -1,0 +1,16 @@
+{
+  "name": "database-and-query-optimizer",
+  "version": "1.0.0",
+  "repository": "https://github.com/suchirmv-1524/Database-And-Query-Optimisation.git",
+  "private": true,
+  "scripts": {
+    "start": "concurrently \"cd ./frontend && yarn start\" \"cd ./backend && poetry run flask run\"",
+    "start-api": "cd ./backend && poetry run flask run",
+    "start-frontend": "cd ./frontend && yarn start",
+    "build": "cd ./frontend && yarn build"
+  },
+  "dependencies": {
+    "concurrently": "^5.3.0",
+    "pipeline": "^0.1.3"
+  }
+}
