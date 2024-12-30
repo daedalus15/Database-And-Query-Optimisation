@@ -1,8 +1,6 @@
-# Walkthrough Snapshots for OptimaSQL
+<h1 align="center">Walkthrough Snapshots for OptimaSQL</h1>
 
 This folder contains step-by-step snapshots illustrating the working of the OptimaSQL project. Below is a brief walkthrough of each snapshot to guide you through the functionality of the project.
-
-## Snapshots Overview
 
 ### 1. Query Input and Predicate Selection
 ![Query Input and Predicate Selection](./Query_input_%26_predicate_selection.png)
@@ -30,9 +28,9 @@ An SQL query optimizer that evaluates and executes query plans while visualizing
 
 ---
 
-### Additional Resources
+### Additional Details
 - **Frontend Setup**: Refer to `Frontend_README` for detailed instructions on setting up the client interface.
 - **Backend Setup**: Refer to `Backend_README` for backend server configuration.
-- **Database Setup**: Refer to `Database_README` for PostgreSQL setup and TPC-H integration.
+- **Database Setup**: Refer to `Database_README` for PostgreSQL setup and TPC-H database integration.
 
 For any issues or further clarifications, please refer to the main repository documentation.
