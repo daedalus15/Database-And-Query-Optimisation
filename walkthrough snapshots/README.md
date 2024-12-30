@@ -22,10 +22,6 @@ Here, the base query execution plan is compared with alternative plans to visual
 ![QEP Graphs and Explanations](./QEP_graphs_and_explanations.png)
 This snapshot provides a graphical representation and detailed explanations of the execution plans, enabling users to understand the trade-offs and choose the best plan.
 
-## About OptimaSQL
-**Project:** OptimaSQL: Enhancing Query Performance with Visualization  
-An SQL query optimizer that evaluates and executes query plans while visualizing performance through alternative execution plan comparisons.
-
 ---
 
 ### Additional Details
